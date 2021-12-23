@@ -11,6 +11,7 @@ public class MainTest extends JFrame{
 	 2021-12-21-11:00~ 2021-12-23-11:00
 	 2021-winter 과제1, 48시간 안에 계산기 만들기 
 	 HGU 전산전자공학부_ 22100579 이진주
+	 깃헙에올림 변경사항테스트용!! 
 	 */
 	private static final long serialVersionUID = 1L;
 
